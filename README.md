@@ -1,4 +1,4 @@
-# test
+# SBK-i18n
 
 ## Project setup
 ```
